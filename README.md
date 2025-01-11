@@ -26,9 +26,9 @@ You might be wondering why the logarithmic function is used. This is because it 
 
 My Code implementation at single_scale_retinex.py
 
-```markdown
+
 ![ssr](ssr.png)
-```
+
 
 The image above is example of SSR on ExDark dataset [1] with \sigma = 180
 
@@ -50,9 +50,9 @@ The image above is example of MSR on ExDark dataset [1] with \sigma = [40,80,160
 
 
 
-```markdown
+
 ![msrcr](msrcr.png)
-```
+
 
 soon~ 
 
