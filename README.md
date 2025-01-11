@@ -26,7 +26,9 @@ You might be wondering why the logarithmic function is used. This is because it 
 
 My Code implementation at single_scale_retinex.py
 
-![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-42-41-image.png)
+```markdown
+![ssr](./ssr.png)
+```
 
 The image above is example of SSR on ExDark dataset [1] with \sigma = 180
 
@@ -38,13 +40,19 @@ $$
 MSR_i(x,y) = \sum_{n=1}^{N} w_n R_i{(x, y)}
 $$
 
-![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-43-26-image.png)
+```markdown
+![msr](./msr.png)
+```
 
 The image above is example of MSR on ExDark dataset [1] with \sigma = [40,80,160]
 
 # MSRCR
 
-![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-31-52-image.png)
+
+
+```markdown
+![msrcr](./msrcr.png)
+```
 
 soon~ 
 
