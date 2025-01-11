@@ -26,6 +26,8 @@ You might be wondering why the logarithmic function is used. This is because it 
 
 My Code implementation at single_scale_retinex.py
 
+![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-42-41-image.png)
+
 The image above is example of SSR on ExDark dataset [1] with \sigma = 180
 
 # Multi-Scale Retinex
@@ -36,6 +38,8 @@ $$
 MSR_i(x,y) = \sum_{n=1}^{N} w_n R_i{(x, y)}
 $$
 
+![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-43-26-image.png)
+
 The image above is example of MSR on ExDark dataset [1] with \sigma = [40,80,160]
 
 # MSRCR
@@ -43,3 +47,5 @@ The image above is example of MSR on ExDark dataset [1] with \sigma = [40,80,160
 ![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-31-52-image.png)
 
 soon~ 
+
+[1] Loh, Y.P. and Chan, C.S. (2019) ‘Getting to know low-light images with the exclusively Dark Dataset’, *Computer Vision and Image Understanding*, 178, pp. 30–42. doi:10.1016/j.cviu.2018.10.010.
