@@ -1,8 +1,4 @@
-# Retinex Algorithm and its Variance
-
-Here is just my diary of studying and understanding retinex algorithm and its variance :D enjoy
-
-# Retinex Algorithm
+Retinex Algorithm
 
 Retinex is derived from "retina" (eye) and "cortex" (brain). It was first proposed by Edwin Land in 1964. The Retinex algorithm is designed to reduce the effect of environmental illumination and extract the reflectance component of an image. The primary goal of the Retinex algorithm is to enhance image quality by compensating for illumination effects, allowing the reflectance of the image to be more accurately captured. This process mimics how the human visual system (eyes and brain) perceives and interprets scenes. The equations are provided below:
 
@@ -40,6 +36,8 @@ The image above is example of MSR on ExDark dataset [1] with \sigma = [40,80,160
 
 # MSRCR
 
-![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-31-52-image.png)
 
-soon~ 
+
+![](C:\Users\ACER\AppData\Roaming\marktext\images\2025-01-12-02-31-39-image.png)
+
+soon~
